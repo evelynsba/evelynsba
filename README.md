@@ -1,6 +1,6 @@
 <h1>👋 Hi there, I'm Evelyn Alves</h1>
 
-- 🌱 I’m currently studying fora  Full stack development
+- 🌱 I’m currently studying for  Full stack development
 - 📫 Contact me on my email evelynsba@gmail.com
 
 <div> 
